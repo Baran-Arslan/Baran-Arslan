@@ -1,3 +1,5 @@
+https://github.com/Baran-Arslan/Baran-Arslan/blob/main/giphy.gif
+
 Hello, my name is Baran and I am 23 years old. I have over 5 years of experience in game development using Unity.
 During this time, I have created a variety of games ranging from complex open-world games to hyper-casual games. 
 My passion for game development has driven me to constantly improve my skills and explore new technologies to enhance the gaming experience for players.
