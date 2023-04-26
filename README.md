@@ -11,7 +11,7 @@ I am confident that my passion, experience, and dedication to game development w
 
 Thank you for your consideration.
 
-baranilearslan@gmail.com
+Contact: baranilearslan@gmail.com
 <!---
 Baran-Arslan/Baran-Arslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
