@@ -1,5 +1,5 @@
-![giphy (1)](https://user-images.githubusercontent.com/130396326/234665532-88c7be56-835a-4477-827c-a33ba08c1376.gif)
-![giphy (2)](https://user-images.githubusercontent.com/130396326/234665626-64d6ff03-f1cf-452a-93aa-13b1a5f9a995.gif)
+![giphy](https://user-images.githubusercontent.com/130396326/234666086-314bd728-fe05-4427-a4fc-78202b761553.gif)
+![giphy (1)](https://user-images.githubusercontent.com/130396326/234666092-f7d97cc7-e517-4ddf-9467-04684df2c45d.gif)
 
 Hello, my name is Baran and I am 23 years old. I have over 5 years of experience in game development using Unity.
 During this time, I have created a variety of games ranging from complex open-world games to hyper-casual games. 
