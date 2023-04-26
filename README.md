@@ -1,4 +1,4 @@
-https://github.com/Baran-Arslan/Baran-Arslan/blob/main/giphy.gif
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Baran-Arslan/Baran-Arslan/blob/main/giphy.gif))
 
 Hello, my name is Baran and I am 23 years old. I have over 5 years of experience in game development using Unity.
 During this time, I have created a variety of games ranging from complex open-world games to hyper-casual games. 
