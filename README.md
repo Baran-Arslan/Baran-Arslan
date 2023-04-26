@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Baran Arslan
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Computer Engineering in Warsaw
-- 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me elpatrongames69@gmail.com
-
 Hello, my name is Baran and I am 23 years old. I have over 5 years of experience in game development using Unity.
 During this time, I have created a variety of games ranging from complex open-world games to hyper-casual games. 
 My passion for game development has driven me to constantly improve my skills and explore new technologies to enhance the gaming experience for players.
@@ -17,6 +11,7 @@ I am confident that my passion, experience, and dedication to game development w
 
 Thank you for your consideration.
 
+baranilearslan@gmail.com
 <!---
 Baran-Arslan/Baran-Arslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
